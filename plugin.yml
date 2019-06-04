@@ -1,0 +1,11 @@
+name: Beslen
+main: iSpokeZ\Feed
+api: [3.8.1]
+version: 1.0
+author: iSpokeZ
+commands:
+  beslen:
+    description: Beslenme Komutu (iSpokeZ)
+permissions:
+  feed.kmt:
+    default: op
